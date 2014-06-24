@@ -11,4 +11,3 @@ categories:
 
 ![如图](/images/exchange_font_img.jpg)
 
-懒得写那么多。直接看别人写好的 [如何替换](http://blog.sina.com.cn/s/blog_627508a20101ivpg.html "点开链接") .

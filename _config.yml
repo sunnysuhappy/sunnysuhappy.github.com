@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://sunnysuhappy.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+title: Blogs Of Sunny
+subtitle: 一个iOS程序猿的技术博客.
+author: Sunny
+simple_search: https://www.baidu.com/
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: https://github.com/sunnysuhappy/
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: https://twitter.com/sunnysuhappy
 twitter_tweet_button: true
 
 # Google +1

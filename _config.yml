@@ -99,3 +99,8 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# 导航栏
+navigation_elements: [
+{name: "关于我", link: "/about"},
+{name: "github", link: "https://github.com/sunnysuhappy"}]
